@@ -21,7 +21,7 @@ Our project leverages state-of-the-art models for object detection:
 - **Yolov10x** : [GitHub Repository](https://github.com/THU-MIG/yolov10)
 
 Trained models are available here:
-- **Trained Models** : [Kaggle Dataset](https://www.kaggle.com/datasets/nonpat/test010/data)
+- **All Trained Models** : [Kaggle Dataset](https://www.kaggle.com/datasets/nonpat/test010/data)
 
 ## Deployment
 
