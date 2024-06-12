@@ -11,7 +11,7 @@ For a detailed overview and insights about the project, read our blog post on Me
 
 We utilized a comprehensive dataset for training and evaluating our models. The dataset is available in two formats:
 - **Original Dataset** : [SCB-dataset on GitHub](https://github.com/Whiffe/SCB-dataset)
-- **Splitted Data (recommend)** : [Detecting Student Classroom Behavior on Kaggle](https://www.kaggle.com/datasets/nonpat/detecting-student-classroom-behavior2)
+- **Splitted Dataset (recommend)** : [Detecting Student Classroom Behavior on Kaggle](https://www.kaggle.com/datasets/nonpat/detecting-student-classroom-behavior2)
 
 ## Model
 
