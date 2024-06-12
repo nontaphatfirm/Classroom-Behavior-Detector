@@ -16,12 +16,12 @@ We utilized a comprehensive dataset for training and evaluating our models. The 
 ## Model
 
 Our project leverages state-of-the-art models for object detection:
-- **Yolov8x** : [GitHub Repository](https://github.com/ultralytics/ultralytics)
-- **Yolov9e** : [GitHub Repository](https://github.com/WongKinYiu/yolov9)
-- **Yolov10x** : [GitHub Repository](https://github.com/THU-MIG/yolov10)
+- **Yolov8 (Yolov8n,Yolovx)** : [GitHub Repository](https://github.com/ultralytics/ultralytics)
+- **Yolov9 (Yolov9e)** : [GitHub Repository](https://github.com/WongKinYiu/yolov9)
+- **Yolov10 (Yolov10x)** : [GitHub Repository](https://github.com/THU-MIG/yolov10)
 
 Trained models are available here:
-- **All Trained Models** : [Kaggle Dataset](https://www.kaggle.com/datasets/nonpat/test010/data)
+- **All Trained Models** : [Kaggle Dataset](https://www.kaggle.com/datasets/nonpat/test010/data) or find in Train result folder
 
 ## Deployment
 
