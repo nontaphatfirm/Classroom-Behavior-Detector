@@ -25,7 +25,7 @@ Trained models are available here:
 
 ## Deployment
 
-You can try the Student Behavior Detector yourself through our deployment on Hugging Face Spaces (Note: Video is already supported !):
+You can try the Student Behavior Detector yourself through our deployment on Hugging Face Spaces (Note: Video is already supported ! by the way video may take a long time to process.):
 - [Student Behavior Detector on Hugging Face](https://huggingface.co/spaces/nontaphat/Student-Behavior-Detector)
 
 ---
